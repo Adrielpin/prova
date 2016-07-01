@@ -1,18 +1,18 @@
-Prova Técnica | Front-end
+Prova TÃ©cnica | Front-end
 
-Como fazer a prova: Clonar o repositório e fazer um pull request com suas alterações no projeto.
+Como fazer a prova: Clonar o repositÃ³rio e fazer um pull request com suas alteraÃ§Ãµes no projeto.
 
 Objetivo: desenvolver o front-end da landing page do arquivo http://emkt.dotgroup.com.br/dot/prova-frontend/layout.psd.
 
-Permitido: utilizar framework JavaScript, preferência jQuery.
+Permitido: utilizar framework JavaScript, preferÃªncia jQuery.
 
-Não é permitido: utilizar framework CSS e pré processadores.
+NÃ£o Ã© permitido: utilizar framework CSS e prÃ© processadores.
 
-Descrição:
-- A landing page deve ser responsiva e compatível com a última versão dos principais navegadores (IE >= 9);
+DescriÃ§Ã£o:
+- A landing page deve ser responsiva e compatÃ­vel com a Ãºltima versÃ£o dos principais navegadores (IE >= 9);
 - Criar um efeito carrossel no campo com as imagens com fundo circular;
-- Desenvolver um acordeon com três níveis;
-- O formulário de contato deve ser validado e conter máscaras.
+- Desenvolver um acordeon com trÃªs nÃ­veis;
+- O formulÃ¡rio de contato deve ser validado e conter mÃ¡scaras.
 
 Diferencial:
-- Utilizar pós processador (Gulp).
+- Utilizar pÃ³s processadores (Gulp).
