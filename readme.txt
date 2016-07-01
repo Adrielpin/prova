@@ -1,5 +1,7 @@
 Prova Técnica | Front-end
 
+Como fazer a prova: Clonar o repositório e fazer um pull request com suas alterações no projeto.
+
 Objetivo: desenvolver o front-end da landing page do arquivo http://emkt.dotgroup.com.br/dot/prova-frontend/layout.psd.
 
 Permitido: utilizar framework JavaScript, preferência jQuery.
@@ -12,5 +14,5 @@ Descrição:
 - Desenvolver um acordeon com três níveis;
 - O formulário de contato deve ser validado e conter máscaras.
 
-Diferencial: 
+Diferencial:
 - Utilizar pós processador (Gulp).
