@@ -1,6 +1,6 @@
 Prova Técnica | Front-end
 
-Objetivo: desenvolver o front-end da landing page do arquivo layout.psd.
+Objetivo: desenvolver o front-end da landing page do arquivo http://emkt.dotgroup.com.br/dot/prova-frontend/layout.psd.
 
 Permitido: utilizar framework JavaScript, preferência jQuery.
 
