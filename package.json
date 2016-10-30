@@ -1,0 +1,20 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "description": "Prova Técnica | Front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/dotgroup/prova-frontend.git"
+  },
+  "author": "Adriel Pinheiro",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/dotgroup/prova-frontend#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {}
+}

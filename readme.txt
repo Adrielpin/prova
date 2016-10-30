@@ -1,4 +1,4 @@
-Prova Técnica | Front-end
+	Prova Técnica | Front-end
 
 Como fazer a prova: Clonar o repositório e fazer um pull request com suas alterações no projeto.
 
